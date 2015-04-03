@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-This is the new tryout of the branches and commit.
+Borre los datos anteriores para probar estos nuevos datos
